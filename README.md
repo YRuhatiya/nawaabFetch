@@ -2,7 +2,7 @@
 
 #
 NawaabFetch is a modification of the IPCP Prefetcher[[1]](#references) specialized for graph applications, built on top of the ChampSim simulator[[2]](#references), for the CS230 course project at IIT Bombay. <br>
-Refer to this presentation[https://docs.google.com/presentation/d/1N0sZyoG22UUS-C3Fj56QbBeIR89mqhf0xeNBgZhiomE/edit#slide=id.gc6f80d1ff_0_0] and the video[https://www.youtube.com/watch?v=uNrGm3ttZZ8] for a detailed understanding of our project.
+Refer to this [presentation](https://docs.google.com/presentation/d/1N0sZyoG22UUS-C3Fj56QbBeIR89mqhf0xeNBgZhiomE/edit#slide=id.gc6f80d1ff_0_0) and the [video](https://www.youtube.com/watch?v=uNrGm3ttZZ8) for a detailed understanding of our project.
 
 ### Code Files
 Changes have been made to the following code files:
