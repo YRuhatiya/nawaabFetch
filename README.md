@@ -28,4 +28,4 @@ Yashwanth Reddy Challa (210050171) <br>
 ### References
 1.  S. Pakalapati and B. Panda, "Bouquet of Instruction Pointers: Instruction Pointer Classifier-based Spatial Hardware Prefetching", https://www.cse.iitk.ac.in/users/biswap/IPCP_ISCA20.pdf 
 2. "ChampSim", https://github.com/ChampSim/ChampSim
-3. Traces, https://utexas.app.box.com/s/2k54kp8zvrqdfaa8cdhfquvcxwh7yn85/folder/132804598561 
+3. Traces: https://utexas.app.box.com/s/2k54kp8zvrqdfaa8cdhfquvcxwh7yn85/folder/132804598561 
